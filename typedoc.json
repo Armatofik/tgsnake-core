@@ -2,7 +2,7 @@
   "entryPoints": ["src/index.ts"],
   "includes": ["LoggerLocation.md", "CHANGELOG.md"],
   "out": "../docs",
-  "name": "@tgsnake/core",
+  "name": "@armatofik/tgsnake-core",
   "includeVersion": true,
   "hideGenerator": true,
   "emit": "both",

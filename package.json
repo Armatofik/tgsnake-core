@@ -1,5 +1,5 @@
 {
-  "name": "@tgsnake/core",
+  "name": "@armatofik/tgsnake-core",
   "version": "1.13.15",
   "description": "Pure Telegram MTProto library for Javascript or Typescript.",
   "main": "./lib/src/index.js",
@@ -22,7 +22,7 @@
     "telegram"
   ],
   "bugs": "https://github.com/tgsnake/core/issues",
-  "repository": "https://github.com/tgsnake/core",
+  "repository": "https://github.com/Armatofik/tgsnake-core",
   "author": "butthx",
   "files": [
     "lib/**/**"

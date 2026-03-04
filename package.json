@@ -1,6 +1,6 @@
 {
   "name": "@armatofik/tgsnake-core",
-  "version": "1.13.15",
+  "version": "1.13.16",
   "description": "Pure Telegram MTProto library for Javascript or Typescript.",
   "main": "./lib/src/index.js",
   "devDependencies": {
